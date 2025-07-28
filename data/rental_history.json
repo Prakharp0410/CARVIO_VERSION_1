@@ -1,0 +1,15 @@
+[
+    {
+        "rental_id": 1,
+        "username": "GEETNATU",
+        "car name": "Camry",
+        "car brand": "Toyota",
+        "car no": "MP01AB1234",
+        "rental start": "2025-07-23",
+        "rental end": "2025-07-31",
+        "duration": 9,
+        "returned": true,
+        "total_amount": 20250.0,
+        "car_image": "https://global.toyota/pages/news/images/2017/07/10/1330/cmrh1707_04_s.jpg"
+    }
+]
